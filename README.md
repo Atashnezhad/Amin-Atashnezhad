@@ -1,5 +1,7 @@
 # Amin Atashnezhad
-
+<p float="center">
+  <img width="600" src="Assets/Amin_Atashnezhad.jpg" >
+</p>
 
 https://atashnezhad.github.io/My-Blog/
 
