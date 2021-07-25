@@ -3,12 +3,14 @@
 
 
 
-I am a petroleum/chemical engineer and aspiring data scientist. The most exciting project that I have been involved in was an AI platform for autonomous drilling in geothermal wells which I developed a standalone software in python using tkinter library. The software has the ability to make decisions in real-time and respond to users with optimized operational parameters. I love astronomy, piano, and mechanical clocks and I am building one in my spare time
+I am a petroleum/chemical engineer and aspiring data scientist. The most exciting project that I have been involved in was an AI platform for autonomous drilling in geothermal wells which I developed a standalone software in python using tkinter library. The software has the ability to make decisions in real-time and respond to users with optimized operational parameters. 
+
+I love astronomy, piano, and mechanical clocks and I am building one in my spare time
 
 
 
 
-Here is last projects that I have been working on in data science domain.
+Here is the list of the latest projects that I have been working on in the data science domain.
 
 * [Lung disease detection using Deep learning](https://github.com/Atashnezhad/Lung_Disease_Detection_Deeplearning):
 
