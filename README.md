@@ -32,11 +32,11 @@ Here is the list of the latest projects that I have been working on in the data 
 
 * [Binary Class Classification (NASA and Space) on Reddit data using NLP](https://github.com/Atashnezhad/Natural_language_processing_Project)
 
-   In this project, NLP was applied for two-class classification purposes. The data were gathered from Reddit for two close subjects including space and NASA.
-   A new set of data were extracted which was later used for classification. 
-   The analysis shows that a new engineered set of data (EDA) shows higher accuracy and boosts the ML algorithms accuracy. 
-   Merging both vectorized text and Engineered data set (EDA) even helps more and boosts the accuracy above 80%. 
-   Finally having an ensemble model works the best with an accuracy of 96%. The set of data and models achieved in this project are seen in the below table.
+ In this project, NLP was applied for two-class classification purposes. The data were gathered from Reddit for two close subjects including space and NASA.
+ A new set of data were extracted which was later used for classification. 
+ The analysis shows that a new engineered set of data (EDA) shows higher accuracy and boosts the ML algorithms accuracy. 
+ Merging both vectorized text and Engineered data set (EDA) even helps more and boosts the accuracy above 80%. 
+ Finally having an ensemble model works the best with an accuracy of 96%. The set of data and models achieved in this project are seen in the below table.
  
 ```
 |    | model_name                         | data_set_used     |   accuracys |   TN |   FP |   FN |   TP |
