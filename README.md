@@ -15,16 +15,13 @@ Here is the list of the latest projects that I have been working on in the data 
 
 * [Lung disease detection using Deep learning](https://github.com/Atashnezhad/Lung_Disease_Detection_Deeplearning)
 
+  This project is composed of two sub-projects including two class and four class classifications.
+  Tensorflow library was used to develop deep convolutional networks. In the case of two-class classification, the balance data set was used however for the four-class classification, the total number of normal and covid were equal while the number of two other categories was under-balance. 
+  The number of the other two classes were balanced taking the number of normal and covid cases into account and A generator was applied for generating new images. 
+  In another approach, I used the weighted objective function for four-class classification to deal with imbalanced data set.
+  The four-class classification codes were uploaded into the google collab to be ran using GPU. The results along with network visualization were provided.
+  Both CNN models are able to classify the problems with good accuracy. Using a generator to increase the number of images is not suggested in general. Fluctuations in the validation data set accuracy versus iteration were observed. 
 
-  Both models including two class classification and four class classification were developed in python using tensorflow library.
-  For the two class classification the balance data set was used.
-  In four class classification, the total number of noraml and covid were equal while the number of two other categories were under-balance. The number of other two classes were balanced taking the number of normal and covid casses into account. The generator was applied for generating new images. Check out the Over_Sampling_Images_second_approach file.
-  In four class classification project weighted objective function was used to deal with imbalance data set.
-  The four class classification codes was uploaded into the google colab to be ran using GPU. The learning curve of model is seen below.
-
-  TFIDF vectorizer can be studied and see if it helps the accuracy of models.
-  In voting ML algorithm more model can be introduced which it would help for sure.
-  The goal of this project was to make a challenge and check out how much we can get close to text classification using common python libraries.
 
 
 
