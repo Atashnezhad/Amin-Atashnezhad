@@ -1,6 +1,3 @@
-# Amin Atashnezhad
-
-
 https://atashnezhad.github.io/Amin-Atashnezhad/
 
 Welcome to my personal webpage. I am currenlty a Post-doctoral fellow in Chemical and Petroleum Engineering and an aspiring data scientist at [Oklahoma State University](https://go.okstate.edu/) working on engineering modeling, optimziation and simulation.
@@ -65,6 +62,11 @@ Here is the list of the latest projects that I have been working on in the data 
       The Tuned ML algorithm is applied to the Fraud detection challange (training, validation, and test). The results was promising and showed 89% accuracy on test data.
     In this notebook, we apply the Intelligent search methods like Differential Evolution Algorithm to find the best ML algorithm hyper-parameters. Previous options are using either predetermined or randomly generated parameters for the ML algorithms. Some of these searching methods are actually a simulation of Intelligent agents in nature like the folk of birds or school of fishes.
 
+
+
+
+
+---
 
 * A Clock inspired by Hisashige Tanaka a Japanese rangaku scholar 
 
