@@ -7,13 +7,6 @@ Welcome to my personal webpage. I am currenlty a Post-doctoral fellow in Chemica
 The most exciting project that I have been involved in was an AI platform for autonomous drilling in geothermal wells which I developed a standalone software in python using tkinter library. The software has the ability to make decisions in real-time and respond to users with optimized operational parameters. 
 
 I love astronomy, piano, and mechanical clocks and I am building one in my spare time (below is my clock demo desined for STILLWATER, OK, USA).
-<p float="center">
-  <img width="150" src="Assets/My_Clock.gif" >
-  <img width="400" src="Assets/Amin_clock_OKC_2.gif">
-</p>
-
-
-
 
 
 Here is the list of the latest projects that I have been working on in the data science domain.
@@ -73,20 +66,16 @@ Here is the list of the latest projects that I have been working on in the data 
     In this notebook, we apply the Intelligent search methods like Differential Evolution Algorithm to find the best ML algorithm hyper-parameters. Previous options are using either predetermined or randomly generated parameters for the ML algorithms. Some of these searching methods are actually a simulation of Intelligent agents in nature like the folk of birds or school of fishes.
 
 
-
-
-
-
-
-
-
-
 * A Clock inspired by Hisashige Tanaka a Japanese rangaku scholar 
 
   Hisashige was a Japanese rangaku scholar, engineer and inventor during the Bakumatsu and early Meiji period in Japan. In 1875, he founded what became the Toshiba Corporation. He has been called the "Thomas Edison of Japan" or "Karakuri Giemon." (Wikipedia)
 
   The following visualization in python shows my clock design for STILLWATER, OK, USA. The clock indexes dynamically shift based on the length of the day depending on the season. In summer more hours indexes show up at the top side of the clock which is representative of daylight, while during winter more hour indexes are seen at the lower side of the circle.
 
+<p float="center">
+  <img width="150" src="Assets/My_Clock.gif" >
+  <img width="400" src="Assets/Amin_clock_OKC_2.gif">
+</p>
 
 
 
