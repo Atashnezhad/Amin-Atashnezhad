@@ -7,8 +7,8 @@ I am a petroleum/chemical engineer and aspiring data scientist. The most excitin
 
 I love astronomy, piano, and mechanical clocks and I am building one in my spare time
 <p float="center">
-  <img width="250" src="Assets/My_Clock.gif" >
-  <img width="600" src="Assets/Amin_clock_OKC_2.gif">
+  <img width="200" src="Assets/My_Clock.gif" >
+  <img width="500" src="Assets/Amin_clock_OKC_2.gif">
 </p>
 
 
