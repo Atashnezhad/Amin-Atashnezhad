@@ -6,7 +6,7 @@ https://atashnezhad.github.io/Amin-Atashnezhad/
 
 I am currenlty a Post-doctoral fellow in Chemical and Petroleum Engineering at [Oklahoma State University](https://go.okstate.edu/) working on engineering modeling, optimziation and simulation. I am an aspiring data scientist.
 
-The most exciting project that I have been involved in was an AI platform for autonomous drilling in geothermal wells which I developed a standalone software in python using tkinter library. 
+Last two years I have been involved in developing an AI platform for autonomous drilling in geothermal wells which I developed a standalone software in python using tkinter library. 
 
 I love astronomy, piano, and mechanical clocks and I am building one in my spare time (below is my clock demo desined for STILLWATER, OK, USA).
 
