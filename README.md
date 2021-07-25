@@ -15,6 +15,11 @@ Here is the list of the latest projects that I have been working on in the data 
 
 * [Lung disease detection using Deep learning](https://github.com/Atashnezhad/Lung_Disease_Detection_Deeplearning)
 
+<p float="center">
+  <img width="150" src="Assets/plot_01_assets_1_4classes.png" >
+</p>
+
+
   This project is composed of two sub-projects including two class and four class classifications.
   Tensorflow library was used to develop deep convolutional networks. In the case of two-class classification, the balance data set was used however for the four-class classification, the total number of normal and covid were equal while the number of two other categories was under-balance. 
   The number of the other two classes were balanced taking the number of normal and covid cases into account and A generator was applied for generating new images. 
