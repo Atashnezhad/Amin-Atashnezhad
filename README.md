@@ -8,7 +8,7 @@ I am currenlty a Post-doctoral fellow in Chemical and Petroleum Engineering at [
 
 Last two years I have been involved in developing an AI platform for autonomous drilling in geothermal wells which I developed a standalone software in python using tkinter library. 
 
-I love astronomy, piano, and mechanical clocks and I am building one in my spare time (below is my clock demo desined for STILLWATER, OK, USA).
+I love astronomy, piano, and mechanical clocks and I am building one in my spare time.
 
 
 Here is the list of the latest projects that I have been working on in the data science domain.
@@ -66,7 +66,6 @@ Here is the list of the latest projects that I have been working on in the data 
     * Final step: 
       The Tuned ML algorithm is applied to the Fraud detection challange (training, validation, and test). The results was promising and showed 89% accuracy on test data.
     In this notebook, we apply the Intelligent search methods like Differential Evolution Algorithm to find the best ML algorithm hyper-parameters. Previous options are using either predetermined or randomly generated parameters for the ML algorithms. Some of these searching methods are actually a simulation of Intelligent agents in nature like the folk of birds or school of fishes.
-
 
 
 
