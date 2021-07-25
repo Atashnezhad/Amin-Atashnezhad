@@ -5,7 +5,7 @@ https://atashnezhad.github.io/My-Blog/
 
 I am a petroleum/chemical engineer and aspiring data scientist. The most exciting project that I have been involved in was an AI platform for autonomous drilling in geothermal wells which I developed a standalone software in python using tkinter library. The software has the ability to make decisions in real-time and respond to users with optimized operational parameters. 
 
-I love astronomy, piano, and mechanical clocks and I am building one in my spare time
+I love astronomy, piano, and mechanical clocks and I am building one in my spare time (below is my clock demo desined for STILLWATER, OK, USA).
 <p float="center">
   <img width="150" src="Assets/My_Clock.gif" >
   <img width="400" src="Assets/Amin_clock_OKC_2.gif">
