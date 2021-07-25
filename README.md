@@ -35,10 +35,39 @@ Here is the list of the latest projects that I have been working on in the data 
    Finally having an ensemble model works the best with an accuracy of 96%
  
 
+
+
+* [Frauds Detection Project](https://github.com/Atashnezhad/Frauds-Detection-Project):
+
+    In this project, a set of data from Talking Data competition was used for two-class classification. Different ML algorithms were used for this purpose. The data was imbalanced therefore I used several approaches to deal with data including:
+
+    * Oversampling
+    * Batch reading
+    * Customized approach: I filtered the data with a value of 1 out of 7 GB data and then count the same number of 0 values and added to base data. Results were a CSV file with 800k rows data points but balanced.
+    * Selecting appropriate hyperparameters to deal with imbalanced data.
+    
+    The kernel was developed and was ran on kaggle cloud system here.
+
+    In a seperate subproject, a python library for symbolic regression was used on sub-set data. The data normalized and was fed into the algorithm.
+
+
+
+
+
+
+
+
+
 * A Clock inspired by Hisashige Tanaka a Japanese rangaku scholar 
 
   Hisashige was a Japanese rangaku scholar, engineer and inventor during the Bakumatsu and early Meiji period in Japan. In 1875, he founded what became the Toshiba Corporation. He has been called the "Thomas Edison of Japan" or "Karakuri Giemon." (Wikipedia)
 
   The following visualization in python shows my clock design for STILLWATER, OK, USA. The clock indexes dynamically shift based on the length of the day depending on the season. In summer more hours indexes show up at the top side of the clock which is representative of daylight, while during winter more hour indexes are seen at the lower side of the circle.
+
+
+
+
+
+
 
 
