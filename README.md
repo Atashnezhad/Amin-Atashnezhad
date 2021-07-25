@@ -16,7 +16,7 @@ Here is the list of the latest projects that I have been working on in the data 
 * [Lung disease detection using Deep learning](https://github.com/Atashnezhad/Lung_Disease_Detection_Deeplearning)
 
 <p float="center">
-  <img width="150" src="Assets/plot_01_assets_1_4classes.png" >
+  <img width="300" src="Assets/plot_01_assets_1_4classes.png" >
 </p>
 
 
