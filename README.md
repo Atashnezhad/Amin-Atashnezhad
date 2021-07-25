@@ -12,7 +12,7 @@ I love astronomy, piano, and mechanical clocks and I am building one in my spare
 
 Here is the list of the latest projects that I have been working on in the data science domain.
 
-* [Lung disease detection using Deep learning](https://github.com/Atashnezhad/Lung_Disease_Detection_Deeplearning):
+* [Lung disease detection using Deep learning](https://github.com/Atashnezhad/Lung_Disease_Detection_Deeplearning)
 
 
   Both models including two class classification and four class classification were developed in python using tensorflow library.
@@ -27,7 +27,7 @@ Here is the list of the latest projects that I have been working on in the data 
 
 
 
-* [Binary Class Classification (NASA and Space) on Reddit data using NLP](https://github.com/Atashnezhad/Natural_language_processing_Project):
+* [Binary Class Classification (NASA and Space) on Reddit data using NLP](https://github.com/Atashnezhad/Natural_language_processing_Project)
 
    The best model is the soft voting model including the three best ML algorithms which were achieved through grid search.
    In this project, a new set of data were extracted which later used for modeling. The analysis shows that a new engineered set of data (EDA) shows higher accuracy    and boosts the ML algorithms.
@@ -37,7 +37,7 @@ Here is the list of the latest projects that I have been working on in the data 
 
 
 
-* [Frauds Detection Project](https://github.com/Atashnezhad/Frauds-Detection-Project):
+* [Frauds Detection Project](https://github.com/Atashnezhad/Frauds-Detection-Project)
 
     In this project, a set of data from Talking Data competition was used for two-class classification. Different ML algorithms were used for this purpose. The data was imbalanced therefore I used several approaches to deal with data including:
 
@@ -54,7 +54,7 @@ Here is the list of the latest projects that I have been working on in the data 
 
 
 
-* [XGBoost Hyperparameters Tuning using Differential Evolution Algorithm](https://github.com/Atashnezhad/XGBoost_Hyperparameters_Tuning):
+* [XGBoost Hyperparameters Tuning using Differential Evolution Algorithm](https://github.com/Atashnezhad/XGBoost_Hyperparameters_Tuning)
 
     In this project, the metaheuristic algorithm is used for tuning machine learning algorithms hyper-parameters. A fraud detection project from the Kaggle challenge is used as a base project. The Project composed of three distinct sections.
 
