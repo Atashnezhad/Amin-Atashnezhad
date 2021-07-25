@@ -10,16 +10,33 @@ I am a petroleum/chemical engineer and aspiring data scientist. The most excitin
 
 Here is last projects that I have been working on in data science domain.
 
-* [Lung disease detection using Deep learning](https://github.com/Atashnezhad/Lung_Disease_Detection_Deeplearning) 
+* [Lung disease detection using Deep learning](https://github.com/Atashnezhad/Lung_Disease_Detection_Deeplearning):
 
 
-* [Binary Class Classification (NASA and Space) on Reddit data using NLP](https://github.com/Atashnezhad/Natural_language_processing_Project) 
+  Both models including two class classification and four class classification were developed in python using tensorflow library.
+  For the two class classification the balance data set was used.
+  In four class classification, the total number of noraml and covid were equal while the number of two other categories were under-balance. The number of other two classes were balanced taking the number of normal and covid casses into account. The generator was applied for generating new images. Check out the Over_Sampling_Images_second_approach file.
+  In four class classification project weighted objective function was used to deal with imbalance data set.
+  The four class classification codes was uploaded into the google colab to be ran using GPU. The learning curve of model is seen below.
+
+  TFIDF vectorizer can be studied and see if it helps the accuracy of models.
+  In voting ML algorithm more model can be introduced which it would help for sure.
+  The goal of this project was to make a challenge and check out how much we can get close to text classification using common python libraries.
+
+
+
+* [Binary Class Classification (NASA and Space) on Reddit data using NLP](https://github.com/Atashnezhad/Natural_language_processing_Project):
+
+   The best model is the soft voting model including the three best ML algorithms which were achieved through grid search.
+   In this project, a new set of data were extracted which later used for modeling. The analysis shows that a new engineered set of data (EDA) shows higher accuracy    and boosts the ML algorithms.
+   Merging both vectorized text and Engineered data set (EDA) even helps more and boosts the accuracy above 80%.
+   Finally having an ensemble model works the best with an accuracy of 96%
  
 
 * A Clock inspired by Hisashige Tanaka a Japanese rangaku scholar 
 
-Hisashige was a Japanese rangaku scholar, engineer and inventor during the Bakumatsu and early Meiji period in Japan. In 1875, he founded what became the Toshiba Corporation. He has been called the "Thomas Edison of Japan" or "Karakuri Giemon." (Wikipedia)
+  Hisashige was a Japanese rangaku scholar, engineer and inventor during the Bakumatsu and early Meiji period in Japan. In 1875, he founded what became the Toshiba Corporation. He has been called the "Thomas Edison of Japan" or "Karakuri Giemon." (Wikipedia)
 
-The following visualization in python shows my clock design for STILLWATER, OK, USA. The clock indexes dynamically shift based on the length of the day depending on the season. In summer more hours indexes show up at the top side of the clock which is representative of daylight, while during winter more hour indexes are seen at the lower side of the circle.
+  The following visualization in python shows my clock design for STILLWATER, OK, USA. The clock indexes dynamically shift based on the length of the day depending on the season. In summer more hours indexes show up at the top side of the clock which is representative of daylight, while during winter more hour indexes are seen at the lower side of the circle.
 
 
