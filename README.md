@@ -11,6 +11,29 @@ I love astronomy, piano, and mechanical clocks and I am building one in my spare
 
 Here is the list of the latest projects that I have been working on in the data science domain.
 
+
+
+
+## [Developing PDC ROP model using symbolic regression algorithm](https://github.com/Atashnezhad/Machine-learning-to-develop-PDC-ROP-model)
+In this project, the symbolic regression machine learning algorithm was used for developing a PDC ROP model.
+The SALib library was used for sensitivity analysis and the first and second-order interactions between paramters are seen in the Figure below.
+
+<p float="center">
+  <img width="450" src="Assets/symbolic reg ROP.png" >
+</p>
+
+The Pysr clearly ignores the dimensionality of mathematical equations. The PySR guides the searching processes toward those equations which result in higher accuracy.
+It would be beneficial if the ML algorithm (symbolic regression package) comes with new feathers to consider the dimensionality in the process of evolution.
+One method that can be used for dimensionality consideration in PySR is by using a customized loss function. In such a case, it is suggested to develop a function that can measure the normalized behavior of separate input parameters into the dependant parameter. The influence of independent parameters on dependant parameters can be studied separately using lab data or from literature. For instance, there is almost an agreement that the WOB affects the ROP with power bigger than 1. Note that this is true before achieving the flounder point. Once the customized objective function was prepared, it is expected that the PySR incorporate more physics into developing equations.
+The sensitivity analysis package in this study was used. As it is seen in the above graph, the PySR found that the WOB, RPM, and UCS have a bigger effect on ROP compare to Dc and NOC.
+The results can be affected by the available number of data points too.
+Besides the effect of independent parameters in dependant, One should consider the interaction effects. The interaction between independent parameters effectively affects how one independent parameter influences the dependant parameter.
+For a problem with five independent parameters, the interaction between independent parameters can happen in the second-order, third-order, and fourth-order fashion ways. Therefore, from a statistical point of view, one should consider more than five independent parameters for modeling purposes. For a problem with five independent parameters, there are 206 interactions and for a 10D problem, there are more than 6M interactions (please check out the interaction calc Notebook in the directory).
+The second-order interaction between independent parameters for this study is seen in the following figure. Statistics Analysis visualization was done using the SALib library. The below figure shows the contribution of each input to output parameters along with second-order as indices width.
+
+
+
+
 ## [Lung disease detection using Deep learning](https://github.com/Atashnezhad/Lung_Disease_Detection_Deeplearning)
 
 <p float="center">
