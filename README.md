@@ -105,7 +105,14 @@ The following visualization in python shows my clock design for STILLWATER, OK, 
 
 -->
 
+## [Big Data Project using Pyspark in Docker](https://github.com/Atashnezhad/Fraud_Detection_Pyspark)
 
+<p float="center">
+  <img width="600" src="Assets/fraud.png" >
+</p>
+
+
+In this project, the [Kaggle Fraud detection challange](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection) was studied. A docker image of Pyspark along with the Jupyter Notebook was used. 
 
 
 
