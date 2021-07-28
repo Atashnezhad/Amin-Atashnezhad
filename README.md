@@ -47,6 +47,12 @@ In another approach, I used the weighted objective function for four-class class
 The four-class classification codes were uploaded into the google collab to be ran using GPU. The results along with network visualization were provided.
 Both CNN models are able to classify the problems with good accuracy. Using a generator to increase the number of images is not suggested in general. Fluctuations in the validation data set accuracy versus iteration were observed. 
 
+<p float="center">
+  <img width="600" src="Assets/LearningCurvefourClassClassification.png" >
+</p>
+
+
+
 
 ## [Binary Class Classification (NASA and Space) on Reddit data using NLP](https://github.com/Atashnezhad/Natural_language_processing_Project)
 
