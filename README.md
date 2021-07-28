@@ -45,7 +45,7 @@ Tensorflow library was used to develop deep convolutional networks. In the case 
 The number of the other two classes were balanced taking the number of normal and covid cases into account and A generator was applied for generating new images. 
 In another approach, I used the weighted objective function for four-class classification to deal with imbalanced data set.
 The four-class classification codes were uploaded into the google collab to be ran using GPU. The results along with network visualization were provided.
-Both CNN models are able to classify the problems with good accuracy. Using a generator to increase the number of images is not suggested in general. Fluctuations in the validation data set accuracy versus iteration were observed. 
+Both CNN models are able to classify the problems with good accuracy. Using a generator to increase the number of images is not suggested in general. Fluctuations in the validation data set accuracy versus iteration were observed (see below Figure). 
 
 <p float="center">
   <img width="600" src="Assets/LearningCurvefourClassClassification.png" >
@@ -60,7 +60,7 @@ In this project, NLP was applied for two-class classification purposes. The data
 A new set of data were extracted which was later used for classification. 
 The analysis shows that a new engineered set of data (EDA) shows higher accuracy and boosts the ML algorithms accuracy. 
 Merging both vectorized text and Engineered data set (EDA) even helps more and boosts the accuracy above 80%. 
-Finally having an ensemble model works the best with an accuracy of 96%. 
+Finally having an ensemble model works the best with an accuracy of 96%. Comparison between different algorithm accuracies and type of data set used is seen in the following Figure.
 
 <p float="center">
   <img width="600" src="Assets/plot_04_03_4.png" >
