@@ -2,7 +2,6 @@
 
 # Welcome to my personal webpage
 
-https://atashnezhad.github.io/Amin-Atashnezhad/
 
 I am currenlty a Post-doctoral fellow in Chemical and Petroleum Engineering at [Oklahoma State University](https://go.okstate.edu/) working on engineering modeling, optimziation and simulation. I am an aspiring data scientist.
 Last two years I have been involved in developing an AI platform for autonomous drilling in geothermal wells which I developed a standalone software in python using tkinter library. 
@@ -79,7 +78,7 @@ In a seperate subproject, a python library for symbolic regression was used on s
 
 
 
-## [XGBoost Hyperparameters Tuning using Differential Evolution Algorithm](https://github.com/Atashnezhad/XGBoost_Hyperparameters_Tuning)
+## [XGBoost Hyperparameters Tuning using Differential Evolution Algorithm - Frauds detection application](https://github.com/Atashnezhad/XGBoost_Hyperparameters_Tuning)
 
 In this project, the metaheuristic algorithm is used for tuning machine learning algorithms hyper-parameters. A fraud detection project from the Kaggle challenge is used as a base project. The Project composed of three distinct sections.
 
