@@ -56,6 +56,12 @@ The analysis shows that a new engineered set of data (EDA) shows higher accuracy
 Merging both vectorized text and Engineered data set (EDA) even helps more and boosts the accuracy above 80%. 
 Finally having an ensemble model works the best with an accuracy of 96%. 
 
+<p float="center">
+  <img width="600" src="Assets/plot_04_03_4.png" >
+</p>
+
+
+
 
 ## [Frauds Detection Project](https://github.com/Atashnezhad/Frauds-Detection-Project)
 
