@@ -79,7 +79,7 @@ In a seperate subproject, a python library for symbolic regression was used on s
 
 
 
-## [XGBoost Hyperparameters Tuning using Differential Evolution Algorithm](https://github.com/Atashnezhad/XGBoost_Hyperparameters_Tuning)
+## [XGBoost Hyperparameters Tuning using Differential Evolution Algorithm - Frauds detection application](https://github.com/Atashnezhad/XGBoost_Hyperparameters_Tuning)
 
 In this project, the metaheuristic algorithm is used for tuning machine learning algorithms hyper-parameters. A fraud detection project from the Kaggle challenge is used as a base project. The Project composed of three distinct sections.
 
