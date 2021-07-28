@@ -13,7 +13,7 @@ Here is the list of the latest projects that I have been working on in the data 
 
 
 
-
+<!-- 
 ## [Developing PDC ROP model using symbolic regression algorithm](https://github.com/Atashnezhad/Machine-learning-to-develop-PDC-ROP-model)
 In this project, the symbolic regression machine learning algorithm was used for developing a PDC ROP model.
 The SALib library was used for sensitivity analysis and the first and second-order interactions between paramters are seen in the Figure below.
@@ -31,7 +31,7 @@ Besides the effect of independent parameters in dependant, One should consider t
 For a problem with five independent parameters, the interaction between independent parameters can happen in the second-order, third-order, and fourth-order fashion ways. Therefore, from a statistical point of view, one should consider more than five independent parameters for modeling purposes. For a problem with five independent parameters, there are 206 interactions and for a 10D problem, there are more than 6M interactions (please check out the interaction calc Notebook in the directory).
 The second-order interaction between independent parameters for this study is seen in the following figure. Statistics Analysis visualization was done using the SALib library. The below figure shows the contribution of each input to output parameters along with second-order as indices width.
 
-
+-->
 
 
 ## [Lung disease detection using Deep learning](https://github.com/Atashnezhad/Lung_Disease_Detection_Deeplearning)
