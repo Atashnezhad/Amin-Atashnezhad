@@ -107,6 +107,8 @@ In this project, the [Kaggle Fraud detection challange](https://www.kaggle.com/c
 
 ## A Clock inspired by Hisashige Tanaka a Japanese rangaku scholar 
 
+This is a hobby project. I love mechanical clocks.
+
 Hisashige was a Japanese rangaku scholar, engineer and inventor during the Bakumatsu and early Meiji period in Japan. In 1875, he founded what became the Toshiba Corporation. He has been called the "Thomas Edison of Japan" or "Karakuri Giemon." (Wikipedia)
 
 The following visualization in python shows my clock design for STILLWATER, OK, USA. The clock indexes dynamically shift based on the length of the day depending on the season. In summer more hours indexes show up at the top side of the clock which is representative of daylight, while during winter more hour indexes are seen at the lower side of the circle.
