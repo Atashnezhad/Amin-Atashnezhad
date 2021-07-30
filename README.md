@@ -90,7 +90,20 @@ In this project, the metaheuristic algorithm is used for tuning machine learning
   The Tuned ML algorithm is applied to the Fraud detection challange (training, validation, and test). The results was promising and showed 89% accuracy on test data.
 In this notebook, we apply the Intelligent search methods like Differential Evolution Algorithm to find the best ML algorithm hyper-parameters. Previous options are using either predetermined or randomly generated parameters for the ML algorithms. Some of these searching methods are actually a simulation of Intelligent agents in nature like the folk of birds or school of fishes.
 
-<!-- 
+## [Big Data Project using Pyspark in Docker](https://github.com/Atashnezhad/Fraud_Detection_Pyspark)
+
+<p float="center">
+  <img width="600" src="Assets/fraud.png" >
+</p>
+
+
+In this project, the [Kaggle Fraud detection challange](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection) was studied. A docker image of Pyspark along with the Jupyter Notebook was used. 
+
+
+
+
+
+ 
 
 ## A Clock inspired by Hisashige Tanaka a Japanese rangaku scholar 
 
@@ -102,17 +115,6 @@ The following visualization in python shows my clock design for STILLWATER, OK, 
   <img width="150" src="Assets/My_Clock.gif" >
   <img width="400" src="Assets/Amin_clock_OKC_2.gif">
 </p>
-
--->
-
-## [Big Data Project using Pyspark in Docker](https://github.com/Atashnezhad/Fraud_Detection_Pyspark)
-
-<p float="center">
-  <img width="600" src="Assets/fraud.png" >
-</p>
-
-
-In this project, the [Kaggle Fraud detection challange](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection) was studied. A docker image of Pyspark along with the Jupyter Notebook was used. 
 
 
 
