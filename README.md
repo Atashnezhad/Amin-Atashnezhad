@@ -47,7 +47,7 @@ The four-class classification codes were uploaded into the google collab to be r
 Both CNN models are able to classify the problems with good accuracy. Using a generator to increase the number of images is not suggested in general. Fluctuations in the validation data set accuracy versus iteration were observed (see below Figure). 
 
 <p float="center">
-  <img width="600" src="Assets/LearningCurvefourClassClassification.png" >
+  <img width="500" src="Assets/LearningCurvefourClassClassification.png" >
 </p>
 
 
