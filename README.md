@@ -107,7 +107,7 @@ In this project, the [Kaggle Fraud detection challange](https://www.kaggle.com/c
 
 ## A Clock inspired by Hisashige Tanaka a Japanese rangaku scholar 
 
-This is a hobby project. I love mechanical clocks.
+I love mechanical clocks and this is my hobby project. 
 
 Hisashige was a Japanese rangaku scholar, engineer and inventor during the Bakumatsu and early Meiji period in Japan. In 1875, he founded what became the Toshiba Corporation. He has been called the "Thomas Edison of Japan" or "Karakuri Giemon." (Wikipedia)
 
