@@ -105,8 +105,7 @@ In this project, the [Kaggle Fraud detection challange](https://www.kaggle.com/c
 
  
 
-### My Hobby projects
-### A Clock inspired by Hisashige Tanaka a Japanese rangaku scholar 
+### My Hobby projects: A Clock inspired by Hisashige Tanaka a Japanese rangaku scholar 
 
 I love mechanical clocks and this is my hobby project. 
 
