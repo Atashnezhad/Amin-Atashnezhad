@@ -61,8 +61,13 @@ The analysis shows that a new engineered set of data (EDA) shows higher accuracy
 Merging both vectorized text and Engineered data set (EDA) even helps more and boosts the accuracy above 80%. 
 Finally having an ensemble model works the best with an accuracy of 96%. Comparison between different algorithm accuracies and type of data set used is seen in the following Figure.
 
+<!--
 <p float="center">
   <img width="600" src="Assets/plot_04_03_4.png" >
+</p>
+-->
+<p float="center">
+  <img width="600" src="Assets/plot_05_ROC.png" >
 </p>
 
 
