@@ -36,7 +36,7 @@ The second-order interaction between independent parameters for this study is se
 ## [Lung disease detection using Deep learning](https://github.com/Atashnezhad/Lung_Disease_Detection_Deeplearning)
 
 <p float="center">
-  <img width="600" src="Assets/plot_01_assets_1_4classes.png" >
+  <img width="800" src="Assets/head_2.png" >
 </p>
 
 This project is composed of two sub-projects including two class and four class classifications.
