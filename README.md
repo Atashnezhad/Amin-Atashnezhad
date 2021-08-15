@@ -57,7 +57,7 @@ Both CNN models are able to classify the problems with good accuracy. Using a ge
 ## [Binary Class Classification (NASA and Space) on Reddit data using NLP](https://github.com/Atashnezhad/Natural_language_processing_Project)
 
 In this project, NLP was applied for two-class classification purposes. The data were gathered from Reddit for two close subjects including space and NASA.
-A new set of data were extracted which was later used for classification. 
+A new set of data were featured and extracted which was later used for ML algorithm classification. 
 The analysis shows that a new engineered set of data (EDA) shows higher accuracy and boosts the ML algorithms performance. 
 Merging both vectorized text and Engineered data set (EDA) even helps more and boosts the accuracy above 80%. 
 Finally having an ensemble model works the best with an accuracy of 96%. The ROC curve for different algorithms used along with data are seen at the following figure.
