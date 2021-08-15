@@ -40,9 +40,10 @@ The second-order interaction between independent parameters for this study is se
 </p>
 
 This project is composed of two sub-projects including two class and four class classifications.
-Tensorflow library was used to develop deep convolutional networks. In the case of two-class classification, the balance data set was used however for the four-class classification, the total number of normal and covid were equal while the number of two other categories was under-balance. 
-The number of the other two classes were balanced taking the number of normal and covid cases into account and A generator was applied for generating new images. 
-In another approach, I used the weighted objective function for four-class classification to deal with imbalanced data set.
+Tensorflow library was used to develop deep convolutional networks. In a two-class classification project, data augmentation was used and the new data was divided into three sections including train, validation, and test. A CNN network was applied to find the pattern in the  CT scan chest images.
+
+In the four-class classification project, the data was imbalanced, therefore to overcome imbalance data, two different techniques including weighted objective function and over-sampling were applied.
+
 The four-class classification codes were uploaded into the google collab to be ran using GPU. The results along with network visualization were provided.
 Both CNN models are able to classify the problems with good accuracy. Using a generator to increase the number of images is not suggested in general. Fluctuations in the validation data set accuracy versus iteration were observed (see below Figure). 
 
