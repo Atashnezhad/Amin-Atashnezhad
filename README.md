@@ -79,9 +79,9 @@ Comparison between different algorithm accuracies and type of data set used is s
 
 ## [Frauds Detection Project](https://github.com/Atashnezhad/Frauds-Detection-Project)
 
-In this project, a set of data from Talking Data competition was used for two-class classification. Different ML algorithms were used for this purpose. The data was imbalanced therefore I used several approaches to deal with data including, oversampling, reading data in batch considering the machine RAM into account and then applying ensumple method using all developed train models, a customized appraoch where I filtered the data with a value of 1 out of 7 GB data and then count the same number of 0 values and added to base data. Results were a CSV file with 800k rows data points but balanced (now all 1 values are included and the ML algorithms can learn more effecintly) and lastly I selected appropriate hyperparameters to deal with imbalanced data. The kernel was developed and was ran on kaggle cloud system here.
+In this project, a set of data from Talking Data competition was used for two-class classification. Different ML algorithms were used for this purpose. The data was imbalanced therefore I used several approaches to deal with data including, oversampling, reading data in batch considering the machine RAM into account and then applying ensumple method using all developed train models, a customized appraoch where I filtered the data with a value of 1 out of 7 GB data and then count the same number of 0 values and added to base data. Results were a CSV file with 800k rows data points but balanced (now all 1 values are included and the ML algorithms can learn more effecintly) and lastly I selected appropriate hyperparameters to deal with imbalanced data. 
 
-In a seperate subproject, a python library for symbolic regression was used on sub-set data. The data normalized and was fed into the symbolic regression algorithm.
+In a seperate sub-project, a python library for symbolic regression was used on sub-set data. The data normalized and was fed into the symbolic regression algorithm.
 
 
 
