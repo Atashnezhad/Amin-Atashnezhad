@@ -33,7 +33,7 @@ The second-order interaction between independent parameters for this study is se
 -->
 
 
-## [Lung disease detection using Deep learning](https://github.com/Atashnezhad/Lung_Disease_Detection_Deeplearning)
+## [Artificial intelligence for lung disease detection using chest CT scan images](https://github.com/Atashnezhad/Lung_Disease_Detection_Deeplearning)
 
 <p float="center">
   <img width="800" src="Assets/head_2.png" >
