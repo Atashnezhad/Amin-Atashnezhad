@@ -56,6 +56,17 @@ Both CNN models are able to classify the problems with good accuracy. Using a ge
 
 ## [Binary Class Classification (NASA and Space) on Reddit data using NLP](https://github.com/Atashnezhad/Natural_language_processing_Project)
 
+Check out below sentences. Can you difference between sentences from NASA and Space community? Actually AI does! with 96% accuracy.
+```
+A) A star shining through Saturn's rings
+B) Online space-related degree
+C) M1: The Incredible Expanding Crab Nebula
+D) A Mysterious Burst of Gravitational Waves Came...
+E) I went to ksc for Christmas and got to see wha...
+F) It looks like the NASA guys had to resche...
+```
+The A,C,E,and F senteces are from NASA community and B and D are from Space community.
+
 In this project, NLP was applied for two-class classification purposes. The data were gathered from Reddit for two close subjects including space and NASA.
 A new set of data were featured and extracted which was later used for ML algorithm classification. 
 The analysis shows that a new engineered set of data (EDA) shows higher accuracy and boosts the ML algorithms performance. 
