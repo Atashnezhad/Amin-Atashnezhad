@@ -138,5 +138,7 @@ The following visualization in python shows my clock design for STILLWATER, OK, 
   <img width="400" src="Assets/Amin_clock_OKC_2.gif">
 </p>
 
-And some dancing sculptures [here](https://vimeo.com/manage/videos/508537606) and [here](https://vimeo.com/manage/videos/516458620).
 
+<!--
+And some dancing sculptures [here](https://vimeo.com/manage/videos/508537606) and [here](https://vimeo.com/manage/videos/516458620).
+-->
