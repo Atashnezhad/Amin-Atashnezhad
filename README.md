@@ -51,6 +51,7 @@ Both CNN models are able to classify the problems with good accuracy. Using a ge
   <img width="500" src="Assets/LearningCurvefourClassClassification.png" >
 </p>
 
+Overfitting is observed due to lack of data for two classes in four class classification project.
 
 
 
