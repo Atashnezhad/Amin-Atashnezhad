@@ -140,6 +140,6 @@ The following visualization in python shows my clock design for STILLWATER, OK, 
 </p>
 
 
-<!--
+
 And some dancing sculptures [here](https://vimeo.com/manage/videos/508537606) and [here](https://vimeo.com/manage/videos/516458620).
--->
+
