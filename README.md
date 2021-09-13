@@ -39,6 +39,7 @@ The second-order interaction between independent parameters for this study is se
   <img width="800" src="Assets/head_2.png" >
 </p>
 
+### Main branch on GitHub:
 This project is composed of two sub-projects including two class and four class classifications.
 Tensorflow library was used to develop deep convolutional networks. In a two-class classification project, data augmentation was used and the new data was divided into three sections including train, validation, and test. A CNN network was applied to find the pattern in the  CT scan chest images.
 
@@ -52,6 +53,23 @@ Both CNN models are able to classify the problems with good accuracy. Using a ge
 </p>
 
 Overfitting is observed due to lack of data for two classes in four class classification project.
+
+### Second branch on GitHub (Default):
+
+Using ImageDataGenerator does the normalization. Note that in the validation and test section, I just applied the normalization. In two-class classification, the number of images is equal so there is no need for balancing the dataset. However, for the four-class classification, I have imbalanced data and I need to consider it to prevent bias. In four class classification, I augmented and oversampled for all four classes. The Normal and Covid cases were augmented and over-sampled from 190 to 1000 images. The Pneumocystis and Streptococcus were augmented and over-sampled from 21 and 12 to 1000 images.
+
+
+
+<p float="center">
+  <img width="1000" src="Assets/Colab/plot_4C_Normal.png" >
+  <img width="1000" src="Assets/Colab/plot_4C_COVID.png" >
+  <img width="1000" src="Assets/Colab/plot_4C_Pneumocystis.png" >
+  <img width="1000" src="Assets/Colab/plot_4C_Streptococcus.png" >
+</p>
+
+
+
+
 
 
 
