@@ -75,7 +75,7 @@ Using ImageDataGenerator does the normalization. Note that in the validation and
 
 ## [Binary Class Classification (NASA and Space) on Reddit data using NLP](https://github.com/Atashnezhad/Natural_language_processing_Project)
 
-Check out the below sentences. It is hardly possible to differentiate between sentences from NASA and Space community? However AI does differentiate sentences easy! In this project, new feather engineered data, boost AI estimation accuracy from 75% to 96%. AI amazingly does such complicate tasks.
+Check out the below sentences. It is hardly possible to differentiate between sentences from NASA and Space community? However AI does differentiate sentences easy! In this project, new featuer engineered data, boost AI estimation accuracy from 75% to 96%. AI amazingly does such complicate tasks.
 ```
 A) A star shining through Saturn's rings.
 B) Online space-related degree.
