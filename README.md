@@ -56,7 +56,7 @@ Overfitting is observed due to lack of data for two classes in four class classi
 
 ### Second branch on GitHub (Default):
 
-Using ImageDataGenerator does the normalization. Note that in the validation and test section, I just applied the normalization. In two-class classification, the number of images is equal so there is no need for balancing the dataset. However, for the four-class classification, I have imbalanced data and I need to consider it to prevent bias. In four class classification, I augmented and oversampled for all four classes. The Normal and Covid cases were augmented and over-sampled from 190 to 1000 images. The Pneumocystis and Streptococcus were augmented and over-sampled from 21 and 12 to 1000 images.
+Using ImageDataGenerator does the normalization. Note that in the validation and test section, I just applied the normalization. In two-class classification, the number of images is equal so there is no need for balancing the dataset. However, for the four-class classification, I have imbalanced data and I need to consider it to prevent bias. In four class classification, I augmented and oversampled for all four classes. The Normal and Covid cases were augmented and over-sampled from 190 to 1000 images. The Pneumocystis and Streptococcus were augmented and over-sampled from 21 and 12 to 1000 images. Both classification models' accuracy reached 80%. Deep Convolutional Network Network (CNN) Classification results for four classes are seen below.
 
 
 
