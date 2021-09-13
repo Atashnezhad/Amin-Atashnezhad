@@ -126,7 +126,7 @@ In this project, the metaheuristic algorithm is used for tuning machine learning
 * Machine Learning Algorithm: 
   The XGBoost which is a powerful machine learning algorithm is selected and the DEA is applied to find the best set of hyper-paratmers.
 * Final step: 
-  The Tuned ML algorithm is applied to the Fraud detection challange (training, validation, and test). The results was promising and showed 89% accuracy on test data.
+  The Tuned ML algorithm is applied to the Fraud detection challenge (training, validation, and test). The results was promising and showed 89% accuracy on test data.
 In this notebook, we apply the Intelligent search methods like Differential Evolution Algorithm to find the best ML algorithm hyper-parameters. Previous options are using either predetermined or randomly generated parameters for the ML algorithms. Some of these searching methods are actually a simulation of Intelligent agents in nature like the folk of birds or school of fishes.
 
 ## [Big Data Project using Pyspark in Docker](https://github.com/Atashnezhad/Fraud_Detection_Pyspark)
@@ -136,7 +136,7 @@ In this notebook, we apply the Intelligent search methods like Differential Evol
 </p>
 
 
-In this project, the [Kaggle Fraud detection challange](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection) was studied. A docker image of Pyspark along with the Jupyter Notebook was used. 
+In this project, the [Kaggle Fraud detection challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection) was studied. A docker image of Pyspark along with the Jupyter Notebook was used. 
 
 
 
