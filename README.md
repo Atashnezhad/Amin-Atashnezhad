@@ -52,7 +52,7 @@ Both CNN models are able to classify the problems with good accuracy. Using a ge
   <img width="500" src="Assets/LearningCurvefourClassClassification.png" >
 </p>
 
-Overfitting is observed due to lack of data for two classes in four class classification project.
+The CNN network fits the train data fine while it fails in the validation part (can't capture the patterns) which can be a sign of having bias (due to network size). Having fluctutation in the validation curves (both for accuracy and validation) can be a sign of overfitting which is due to lack of data for two classes (Pneumocystis and Streptococcus) in four class classification project. 
 
 ### Second branch on GitHub (Default):
 
